@@ -6,6 +6,4 @@
 terraform init
 ```
 
-```terraform
-terraform init
-```
+
