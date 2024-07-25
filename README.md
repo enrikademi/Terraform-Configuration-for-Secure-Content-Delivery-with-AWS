@@ -1,0 +1,1 @@
+# AWS-MediaPackage-OriginEndpoint-with-Terraform
