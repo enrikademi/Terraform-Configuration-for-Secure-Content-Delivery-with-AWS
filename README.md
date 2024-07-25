@@ -7,3 +7,4 @@ terraform init
 ```
 
 
+![cdn_auth](https://github.com/user-attachments/assets/5dedbe7f-6b0e-408e-b93f-ceed49996ac3)
