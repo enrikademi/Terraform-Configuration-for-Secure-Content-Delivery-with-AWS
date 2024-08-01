@@ -1,14 +1,11 @@
-# Authorizatiion of request with AWS MediaPackage OriginEndpoint with Terraform
+# Terraform Demo: Integrating AWS CloudFront, Elemental MediaPackage, and Secrets Manager for Secure Content Delivery
 
-## I'll demonstrate the creation of MediaPackage origin endpoint with Terraform and CDN authorization, since there is no such resource of terraform that does create it!
- This will enhances security by ensuring that only requests with valid and authorized identifiers can access and distribute media content.
+## This will enhances security by ensuring that only requests with valid and authorized identifiers can access and distribute media content.
 
 
- 
 ```bash
 terraform init
-
-to be continued
+terraform apply
 ```
 
 
